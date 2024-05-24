@@ -6,7 +6,7 @@ Example Electron app with MacOS & Windows build integration with Travis CI
 
 ## Running
 In order to run locally type the following:
-
+ 
 ```
 npm install
 npm start
